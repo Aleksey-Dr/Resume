@@ -45,6 +45,10 @@ body {
     width: 400px;
 }
 /* project styles */
+.project-title {
+    margin: 0;
+    margin-left: 10px;
+}
 .projects {
     margin-bottom: 50px;
 }
